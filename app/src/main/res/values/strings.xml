@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tweetster</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_session_recorder">SessionRecorder</string>
+
+    <string name="toast_login_failure">Unable to login. Please try again later.</string>
+    <string name="title_activity_initial">InitialActivity</string>
+    <string name="title_activity_select_lists">SelectListsActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
